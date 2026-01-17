@@ -1,7 +1,8 @@
 # Hi there 👋, I’m Rugved Shete  
 
-### 🔭 I’m a Quant / Algorithmic-Trading Enthusiast  
-I build end-to-end trading & quant-finance projects using Python, machine learning, and market data — from simple SMA backtests to HFT-style simulations.
+### 🔭 I’m a Quant + AI/ML Engineer Enthusiast
+
+I build end-to-end projects across algorithmic trading and machine learning using Python, data, and real-world systems — from SMA/EMA backtests and factor models to deep learning pipelines and production-ready ML applications.
 
 ---
 
