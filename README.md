@@ -1,41 +1,68 @@
-# Hi there 👋, I’m Rugved Shete  
+👋 Hi, I'm Rugved Shete
 
-### 🔭 I’m a Quant + AI/ML Engineer Enthusiast
+🎓 B.Tech Computer Engineering (AI & Analytics)
+MIT ADT University, Pune (2022–2026)
+CGPA: 6.55 / 10
 
-I build end-to-end projects across algorithmic trading and machine learning using Python, data, and real-world systems — from SMA/EMA backtests and factor models to deep learning pipelines and production-ready ML applications.
+I am a Computer Engineering student with an academic focus on Artificial Intelligence, Machine Learning, and Quantitative Finance.
+My work centers on applying statistical learning, time-series modeling, and deep learning to financial markets and real-world systems.
 
----
+🎓 Academic Focus
 
-## 🧰 Tech Stack  
+My academic training includes:
 
-- **Data & Analysis**: Python · Pandas · NumPy · yfinance / Yahoo Finance  
-- **Trading & Backtesting**: backtesting.py, custom scripts (pairs trading, market-making)  
-- **Machine Learning / DL**: scikit-learn · TensorFlow / Keras · LSTM / Time-Series Modeling  
-- **Visualization**: Matplotlib, seaborn  
-- **Version Control & Hosting**: Git · GitHub  
+Machine Learning & Deep Learning
 
----
+Time-Series Analysis
 
-## 🚀 Featured Projects  
+Statistics & Probability
 
-| Project | What it does / Why it stands out |
-|--------|-----------------------------------|
-| **SMA-Crossover Backtesting (NSE)** | Classic moving-average strategy backtest with real Indian stock data — helps understand execution & returns. |
-| **Market-Making Simulator (NSE)** | Simulates HFT-style bid/ask quoting, spread-capture & inventory risk — microstructure-level awareness. |
-| **Stat-Arb Pairs Trading (Cointegration)** | Cointegration-based stat-arb between banking stocks, market-neutral, good mean-reversion P&L. |
-| **Order-Book Imbalance Prediction (LSTM)** | Uses 5-min candle data + LSTM to predict next-bar direction with ~60% accuracy — shows ML + finance merge. |
+Data Structures & Algorithms
 
-> 👉 More projects in the “Projects” tab — always evolving.
+Optimization Techniques
 
----
+Financial Modeling (NPV, IRR, WACC)
 
-## 📫 How to Reach Me  
+Model Evaluation & Risk Metrics
 
-- LinkedIn: www.linkedin.com/in/rugved-shete-b056b3329
-- Email: rugved.shete004@gmail.com
----
+I focus on understanding the mathematical foundations behind models — not just implementation.
 
-## ⚡ Fun Fact  
+🧠 Academic Learning → Applied Projects
 
-I enjoy exploring deep-learning applications in trading and building strategies that bridge data science with financial markets.  
-If you want to collaborate or just discuss quant ideas — always happy to connect 🙂  
+I translate coursework into applied systems:
+
+📈 Time-Series + LSTM Theory → Intraday price direction prediction
+
+📊 Statistical Testing & Cointegration → Market-neutral pairs trading
+
+📉 Risk Metrics & Performance Evaluation → Sharpe ratio & drawdown optimization
+
+🤖 CNN Architecture & Computer Vision → Oil spill detection & YOLOv8 object detection
+
+💰 Capital Budgeting Concepts → Real-world financial feasibility modeling
+
+🛠 Technical Skills
+
+Programming:
+Python · SQL · Java · C/C++
+
+Machine Learning / Deep Learning:
+Scikit-learn · TensorFlow · PyTorch · CNN · LSTM · YOLOv8
+
+Data & Quant Tools:
+Pandas · NumPy · Statsmodels · Backtesting.py
+
+Tools:
+Git · GitHub · Jupyter · Google Colab · VS Code · Power BI · Tableau
+
+🚀 Current Interests
+
+Quantitative Research
+
+Time-Series Forecasting
+
+Market Microstructure
+
+Deep Learning for Financial Data
+
+Applied Statistical Modeling
