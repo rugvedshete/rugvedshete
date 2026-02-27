@@ -38,20 +38,6 @@ Final-year Computer Science Engineering student specialised in AI and Analytics,
 - **Financial Modeling:** Developed real-world feasibility models using capital budgeting concepts.
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RugvedShete&show_icons=true&theme=radical" alt="Rugved's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RugvedShete&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/rugved-shete-b056b3329)
-- **Email:** [your.email@example.com](rugved.shete004@gmail..com)
-
----
 <p align="center">
   "Understanding the math behind the model is the difference between a tool and a solution."
 </p>
