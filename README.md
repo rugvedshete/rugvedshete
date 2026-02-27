@@ -1,68 +1,64 @@
-👋 Hi, I'm Rugved Shete
+# 🚀 Hi, I'm Rugved Shete
+### **Computer Engineering Student | AI, Machine Learning & Quantitative Finance**
 
-🎓 B.Tech Computer Engineering (AI & Analytics)
-MIT ADT University, Pune (2022–2026)
-CGPA: 6.55 / 10
+<p align="left">
+  <img src="https://img.shields.io/badge/Education-B.Tech%20Computer%20Engineering-blue?style=flat-square" alt="Education">
+  <img src="https://img.shields.io/badge/University-MIT%20ADT%2C%20Pune-red?style=flat-square" alt="University">
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Quant%20Finance-green?style=flat-square" alt="Focus">
+</p>
 
-I am a Computer Engineering student with an academic focus on Artificial Intelligence, Machine Learning, and Quantitative Finance.
-My work centers on applying statistical learning, time-series modeling, and deep learning to financial markets and real-world systems.
+---
 
-🎓 Academic Focus
+## 🧠 About Me
+I am a Computer Engineering student (Class of 2026) specializing in **AI & Analytics**. My work focuses on the intersection of **statistical learning**, **time-series modeling**, and **quantitative finance**. 
 
-My academic training includes:
+I prioritize understanding the mathematical foundations of models—moving beyond simple implementation to master optimization techniques and risk metrics.
 
-Machine Learning & Deep Learning
+- 🔭 **Current Focus:** Market Microstructure & Deep Learning for Financial Data.
+- 🎓 **Academic Training:** Statistics, Probability, Optimization, and Financial Modeling (NPV, IRR, WACC).
+- 💡 **Philosophy:** Translating coursework into robust, applied systems.
 
-Time-Series Analysis
+---
 
-Statistics & Probability
+## 🛠 Technical Toolkit
 
-Data Structures & Algorithms
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python, SQL, Java, C/C++ |
+| **ML / DL** | Scikit-learn, TensorFlow, PyTorch, CNN, LSTM, YOLOv8 |
+| **Quant Tools** | Pandas, NumPy, Statsmodels, Backtesting.py |
+| **Data Viz** | Power BI, Tableau, Matplotlib, Seaborn |
+| **Dev Ops** | Git, GitHub, Jupyter, Google Colab, VS Code |
 
-Optimization Techniques
+---
 
-Financial Modeling (NPV, IRR, WACC)
+## 📈 Theory → Applied Projects
 
-Model Evaluation & Risk Metrics
+### 📊 Quantitative Research
+- **Pairs Trading:** Applied statistical testing and cointegration for market-neutral strategies.
+- **Time-Series:** Leveraged LSTM theory for intraday price direction prediction.
+- **Risk Metrics:** Optimization of Sharpe ratio and drawdown in backtested portfolios.
 
-I focus on understanding the mathematical foundations behind models — not just implementation.
+### 🤖 Computer Vision & AI
+- **Oil Spill Detection:** Implemented YOLOv8 and CNN architectures for environmental monitoring.
+- **Financial Modeling:** Developed real-world feasibility models using capital budgeting concepts.
 
-🧠 Academic Learning → Applied Projects
+---
 
-I translate coursework into applied systems:
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RugvedShete&show_icons=true&theme=radical" alt="Rugved's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RugvedShete&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-📈 Time-Series + LSTM Theory → Intraday price direction prediction
+---
 
-📊 Statistical Testing & Cointegration → Market-neutral pairs trading
+## 📫 Connect with Me
+- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
 
-📉 Risk Metrics & Performance Evaluation → Sharpe ratio & drawdown optimization
-
-🤖 CNN Architecture & Computer Vision → Oil spill detection & YOLOv8 object detection
-
-💰 Capital Budgeting Concepts → Real-world financial feasibility modeling
-
-🛠 Technical Skills
-
-Programming:
-Python · SQL · Java · C/C++
-
-Machine Learning / Deep Learning:
-Scikit-learn · TensorFlow · PyTorch · CNN · LSTM · YOLOv8
-
-Data & Quant Tools:
-Pandas · NumPy · Statsmodels · Backtesting.py
-
-Tools:
-Git · GitHub · Jupyter · Google Colab · VS Code · Power BI · Tableau
-
-🚀 Current Interests
-
-Quantitative Research
-
-Time-Series Forecasting
-
-Market Microstructure
-
-Deep Learning for Financial Data
-
-Applied Statistical Modeling
+---
+<p align="center">
+  "Understanding the math behind the model is the difference between a tool and a solution."
+</p>
