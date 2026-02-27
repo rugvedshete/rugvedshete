@@ -48,9 +48,8 @@ Final-year Computer Science Engineering student specialised in AI and Analytics,
 ---
 
 ## 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/rugved-shete-b056b3329)
+- **Email:** [your.email@example.com](rugved.shete004@gmail..com)
 
 ---
 <p align="center">
