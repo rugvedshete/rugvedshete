@@ -10,13 +10,7 @@
 ---
 
 ## 🧠 About Me
-I am a Computer Engineering student (Class of 2026) specializing in **AI & Analytics**. My work focuses on the intersection of **statistical learning**, **time-series modeling**, and **quantitative finance**. 
-
-I prioritize understanding the mathematical foundations of models—moving beyond simple implementation to master optimization techniques and risk metrics.
-
-- 🔭 **Current Focus:** Market Microstructure & Deep Learning for Financial Data.
-- 🎓 **Academic Training:** Statistics, Probability, Optimization, and Financial Modeling (NPV, IRR, WACC).
-- 💡 **Philosophy:** Translating coursework into robust, applied systems.
+Final-year Computer Science Engineering student specialised in AI and Analytics, with proficiency in Python, SQL, Java, and Machine Learning. Familiar with the use of data, software creation and developed AI applications, as well as a background in finance and business. Looking for opportunities in Data Analytics, Machine Learning, or AI.**. 
 
 ---
 
