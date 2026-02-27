@@ -2,7 +2,7 @@
 ### **Computer Engineering Student | AI, Machine Learning & Quantitative Finance**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Education-B.Tech%20Computer%20Engineering-blue?style=flat-square" alt="Education">
+
   <img src="https://img.shields.io/badge/University-MIT%20ADT%2C%20Pune-red?style=flat-square" alt="University">
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Quant%20Finance-green?style=flat-square" alt="Focus">
 </p>
