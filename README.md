@@ -4,7 +4,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/University-MIT%20ADT%2C%20Pune-red?style=flat-square" alt="University">
-  <img src="https://img.shields.io/badge/Intern-HCLTech-blue?style=flat-square" alt="Internship">
+  <img src="https://img.shields.io/badge/Interned-HCLTech-blue?style=flat-square" alt="Internship">
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20GenAI-green?style=flat-square" alt="Focus">
 </p>
 
